@@ -16,7 +16,7 @@ const judgeVegetable = function (vegetables, metric) {
 
     if (keys.includes(metric)) {
         return vegetables[indexOfRedness].submitter
-    }
+}
 }
 
 
